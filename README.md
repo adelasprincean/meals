@@ -39,5 +39,5 @@ cd meals
 # Install dependencies
 npm install
 
-# Usage
+### Usage
 npm run dev
