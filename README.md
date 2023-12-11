@@ -36,5 +36,8 @@ git clone https://github.com/yourusername/meals.git
 # Navigate to the project directory
 cd meals
 
+# Install packages
+npm install
+
 # Usage
 npm run dev
